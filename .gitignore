@@ -2,3 +2,6 @@
 /Lib
 /Scripts
 *.cfg
+*.pyc
+*.pkl
+itbi_data.csv
